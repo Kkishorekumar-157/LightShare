@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.lightshare.domain.FountainTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2026-11-24T05:26:49.564Z" hostname="LAPTOP-D59APC9Q" time="0.381">
+  <properties/>
+  <testcase name="degree_distribution_has_low_degrees_and_a_spike" classname="com.lightshare.domain.FountainTest" time="0.068"/>
+  <testcase name="recovers_from_30_percent_loss" classname="com.lightshare.domain.FountainTest" time="0.133"/>
+  <testcase name="chunking_pads_last_block_and_counts" classname="com.lightshare.domain.FountainTest" time="0.0"/>
+  <testcase name="recovers_with_shuffled_order_and_loss" classname="com.lightshare.domain.FountainTest" time="0.023"/>
+  <testcase name="corrupted_block_is_detected_by_hash" classname="com.lightshare.domain.FountainTest" time="0.002"/>
+  <testcase name="selector_is_deterministic_distinct_and_in_range" classname="com.lightshare.domain.FountainTest" time="0.027"/>
+  <testcase name="end_to_end_small_to_large" classname="com.lightshare.domain.FountainTest" time="0.087"/>
+  <testcase name="recovers_from_heavy_loss_70_percent" classname="com.lightshare.domain.FountainTest" time="0.007"/>
+  <testcase name="lossless_in_order_needs_about_k_frames" classname="com.lightshare.domain.FountainTest" time="0.004"/>
+  <testcase name="insufficient_packets_do_not_complete_and_progress_is_reported" classname="com.lightshare.domain.FountainTest" time="0.0"/>
+  <testcase name="repair_packet_is_xor_of_selected_blocks" classname="com.lightshare.domain.FountainTest" time="0.0"/>
+  <testcase name="sha256_mismatch_is_detected" classname="com.lightshare.domain.FountainTest" time="0.001"/>
+  <testcase name="repair_packets_alone_can_rebuild_the_file" classname="com.lightshare.domain.FountainTest" time="0.023"/>
+  <testcase name="duplicates_wrong_transfer_and_invalid_are_handled" classname="com.lightshare.domain.FountainTest" time="0.001"/>
+  <system-out><![CDATA[repair-only decode of 300 blocks used 364 packets (1.21x)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

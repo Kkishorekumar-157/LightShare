@@ -1,0 +1,4 @@
+#Tue Nov 24 11:02:50 IST 2026
+base.0=C\:\\Users\\KUTIKUPPALA KISHORE\\Documents\\claudescannerproj\\LightShareclaude\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex

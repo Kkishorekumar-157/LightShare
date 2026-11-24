@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.lightshare.domain.ProtocolTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2026-11-24T05:26:49.953Z" hostname="LAPTOP-D59APC9Q" time="0.027">
+  <properties/>
+  <testcase name="frame_codec_roundtrip_and_rejects_foreign_qr" classname="com.lightshare.domain.ProtocolTest" time="0.0"/>
+  <testcase name="rejects_truncated_and_empty" classname="com.lightshare.domain.ProtocolTest" time="0.001"/>
+  <testcase name="base45_rfc9285_vectors" classname="com.lightshare.domain.ProtocolTest" time="0.001"/>
+  <testcase name="manifest_roundtrip" classname="com.lightshare.domain.ProtocolTest" time="0.0"/>
+  <testcase name="sanitize_name" classname="com.lightshare.domain.ProtocolTest" time="0.0"/>
+  <testcase name="base45_roundtrip_all_lengths" classname="com.lightshare.domain.ProtocolTest" time="0.003"/>
+  <testcase name="rejects_semantically_invalid_packets" classname="com.lightshare.domain.ProtocolTest" time="0.002"/>
+  <testcase name="sender_frames_fit_qr_limit_and_alphabet" classname="com.lightshare.domain.ProtocolTest" time="0.007"/>
+  <testcase name="base45_rejects_garbage" classname="com.lightshare.domain.ProtocolTest" time="0.001"/>
+  <testcase name="packet_roundtrip_source_and_repair" classname="com.lightshare.domain.ProtocolTest" time="0.001"/>
+  <testcase name="crc_detects_every_single_bit_flip" classname="com.lightshare.domain.ProtocolTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

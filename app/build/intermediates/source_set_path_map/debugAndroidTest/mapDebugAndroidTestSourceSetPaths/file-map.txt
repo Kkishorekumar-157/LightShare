@@ -1,0 +1,4 @@
+com.lightshare.test.app-androidTest-0 C:\Users\KUTIKUPPALA KISHORE\Documents\claudescannerproj\LightShareclaude\app\build\generated\res\resValues\androidTest\debug
+com.lightshare.test.app-mergeDebugAndroidTestResources-1 C:\Users\KUTIKUPPALA KISHORE\Documents\claudescannerproj\LightShareclaude\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.lightshare.test.app-mergeDebugAndroidTestResources-2 C:\Users\KUTIKUPPALA KISHORE\Documents\claudescannerproj\LightShareclaude\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.lightshare.test.app-debugAndroidTest-3 C:\Users\KUTIKUPPALA KISHORE\Documents\claudescannerproj\LightShareclaude\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
